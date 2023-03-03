@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32-GDIOnly.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32.Properties.Resources.resources
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32-GDIOnly.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32-GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\bin\Debug\coore32-GDIOnly.exe
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\bin\Debug\coore32-GDIOnly.pdb
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32-GDIOnly.exe
+C:\Users\ACER\source\repos\coore32-GDIOnly\coore32\obj\Debug\coore32-GDIOnly.pdb
